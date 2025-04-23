@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>solidday2</id>
+    <version>1.0.0</version>
+    <authors>solidday2</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\برنت\source\repos\solidday2\solidday2\bin\Debug\net9.0\solidday2.runtimeconfig.json" target="lib\net9.0\solidday2.runtimeconfig.json" />
+    <file src="C:\Users\برنت\source\repos\solidday2\solidday2\bin\Debug\net9.0\solidday2.dll" target="lib\net9.0\solidday2.dll" />
+  </files>
+</package>
